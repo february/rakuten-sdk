@@ -12,4 +12,4 @@ rakuten:
   url:
     ichiba-item: https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170706 
 ```
-* 設置方法は、サービスの[入力パラメーター](https://webservice.rakuten.co.jp/api/ichibaitemsearch/#inputParameter)を参照 *
+*設置方法は、サービスの[入力パラメーター](https://webservice.rakuten.co.jp/api/ichibaitemsearch/#inputParameter)を参照*
