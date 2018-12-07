@@ -2,7 +2,6 @@
 #### 日本CMサイトRakutenのウェブサービスを呼び出すJAVA SDKです
 
 現時点まで、[楽天商品検索API (version:2017-07-06)](https://webservice.rakuten.co.jp/api/ichibaitemsearch/)を呼び出す処理が実装されました。
-
 設定として、下記のブロックを**application.yml**に入ってください。
 ```
 rakuten: 
